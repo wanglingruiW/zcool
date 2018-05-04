@@ -52,5 +52,7 @@ git reset --hard HEAD^
 
 还原到上n个版本;
 
+检测版本
+
 
 
